@@ -4,6 +4,7 @@ public class ArrayListReview {
     public static void main(String[] args) {
         // Create ArrayList and a class
         List<Student> students= new ArrayList<>();
+        //Making some changes
         // Add Elements to ArrayList
         students.add(new Student(1,"Jose"));
         students.add(new Student(2,"Sayed"));
