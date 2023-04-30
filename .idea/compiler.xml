@@ -13,7 +13,7 @@
         <module name="streams" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="collection-review" target="11" />
       <module name="generics" target="1.8" />
       <module name="lambda" target="11" />
