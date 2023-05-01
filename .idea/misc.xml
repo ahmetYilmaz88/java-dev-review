@@ -8,6 +8,12 @@
         <option value="$PROJECT_DIR$/generics/pom.xml" />
         <option value="$PROJECT_DIR$/lambda/pom.xml" />
         <option value="$PROJECT_DIR$/oop-review/pom.xml" />
+        <option value="$PROJECT_DIR$/java-review/oop-review/pom.xml" />
+        <option value="$PROJECT_DIR$/java-review/lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/java-review/generics/pom.xml" />
+        <option value="$PROJECT_DIR$/java-review/collection-review/pom.xml" />
+        <option value="$PROJECT_DIR$/java-review/streams/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-practice/pom.xml" />
       </list>
     </option>
   </component>

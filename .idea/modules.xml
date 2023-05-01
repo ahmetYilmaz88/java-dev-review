@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/collection-review/collection-review.iml" filepath="$PROJECT_DIR$/collection-review/collection-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-review/collection-review/collection-review.iml" filepath="$PROJECT_DIR$/java-review/collection-review/collection-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-review/generics/generics.iml" filepath="$PROJECT_DIR$/java-review/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-dev-review.iml" filepath="$PROJECT_DIR$/.idea/java-dev-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop-review/oop-review.iml" filepath="$PROJECT_DIR$/oop-review/oop-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-review/lambda/lambda.iml" filepath="$PROJECT_DIR$/java-review/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-review/oop-review/oop-review.iml" filepath="$PROJECT_DIR$/java-review/oop-review/oop-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-practice/stream-practice.iml" filepath="$PROJECT_DIR$/stream-practice/stream-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-review/streams/streams.iml" filepath="$PROJECT_DIR$/java-review/streams/streams.iml" />
     </modules>
   </component>
 </project>
